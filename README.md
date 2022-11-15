@@ -7,4 +7,6 @@ Description: The goal of this competition is to create a model that predicts the
 
 https://www.kaggle.com/competitions/drinking-water-quality
 
-Link to data cleaning NB: https://colab.research.google.com/drive/1gLLbX6S4kDB8nrSEkgmxb6QMCMKRT2q-?usp=sharing
+Link to the data exploration NB: https://colab.research.google.com/drive/1gLLbX6S4kDB8nrSEkgmxb6QMCMKRT2q-?usp=sharing
+
+Link to intermediate presentation: https://docs.google.com/presentation/d/1ZXY686SDyzbcc6zWHN-giHS-eOqvwYtXRf7xLJbb5Fo/edit?usp=sharing
